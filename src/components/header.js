@@ -36,7 +36,7 @@ Header.propTypes = {
 }
 
 Header.defaultProps = {
-  siteTitle: ``,
+  siteTitle: `DoesNotExist`,
 }
 
 export default Header
